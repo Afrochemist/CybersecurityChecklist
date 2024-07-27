@@ -2,3 +2,4 @@ This repo contains contains various checklists when performing a specific task i
 
 - API Pentest Checklist
 - Mobile App Pentest
+- GraphQL
